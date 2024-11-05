@@ -1,0 +1,1 @@
+Isi sendiri di file all/database/textjpm.js
